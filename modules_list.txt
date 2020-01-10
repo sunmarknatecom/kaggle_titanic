@@ -1,0 +1,9 @@
+List of python modules when install
+
+1. tensorflow
+2. keras
+3. pandas
+4. matplotlib
+5. jupyter
+6. opencv-python
+7. kaggle
